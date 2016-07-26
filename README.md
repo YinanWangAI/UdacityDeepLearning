@@ -12,5 +12,5 @@ If you are not familar with deep learning, this course provides a good introduct
 * Assignment 2 --------------------- Done
 * Assignment 3 --------------------- Done
 * Assignment 4 --------------------- Done
-* Assignment 5 
+* Assignment 5 --------------------- Done
 * Assignment 6
